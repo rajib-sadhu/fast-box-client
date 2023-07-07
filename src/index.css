@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.side-navbar .active{
+    color: #1C8D73;
+    font-weight: 500;
+}
+
+
+.side-navbar a:hover{
+
+    color: #22CB5C;
+}
